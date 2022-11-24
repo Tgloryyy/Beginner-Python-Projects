@@ -1,7 +1,6 @@
 import os,shutil
 
 path=r'C:\Users\Admin\Downloads'
-software_path=r'C:\Users\Admin\Desktop\New folder\Softwares'
 documents_path=r'C:\Users\Admin\Desktop\New folder\Documents'
 audio_path=r'C:\Users\Admin\Desktop\New folder\Audio'
 video_path=r'C:\Users\Admin\Desktop\New folder\Videos'
